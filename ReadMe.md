@@ -1,1 +1,1 @@
-# Snow crab functions:
+# Snow-Crab

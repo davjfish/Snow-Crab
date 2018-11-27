@@ -1,0 +1,3 @@
+# List of files or types to ignore when committing.
+*.ora
+# /SomeDirectory for whole directories.
